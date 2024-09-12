@@ -69,7 +69,7 @@
 		<div class="image_box2">
 			<div> 
 			<table style="position: relative; bottom: 1px; left: 1px;">
-       			 <c:forEach var="i" begin="2" end="11">
+       			 <c:forEach var="i" begin="2" end="10">
         	   		 <tr>
            			 <td id = "info_title${i}"  style="border-style: solid; text-align: center; height: 50px; font-weight: 900; padding: 10px;"></td>
            			 <td id = "info${i}"  style="border-style: solid; height: 50px; padding: 10px;"></td>
